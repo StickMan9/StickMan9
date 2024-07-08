@@ -2,7 +2,7 @@
                                                        
 My local server:                   
        
-Chip: 2x Xeon E5 2686v4  
+Chip: 2x Xeon E5 2686v4   
 Mainboard: Huananzhi x99 F8D plus      
 Ram: 256GB ECC DDR4 
 VGA: No
